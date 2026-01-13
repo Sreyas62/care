@@ -26,7 +26,7 @@ Care backend makes the following features possible:
 - Facility Management with Inventory Monitoring
 - Integrated Tele-medicine & Triage
 - Patient Management and Consultation History
-- Realtime video feed and vitals monitoring of patients
+- Realtime video feed and vitals monitoring of patients.
 - Clinical Data Visualizations.
 
 ## Getting Started
